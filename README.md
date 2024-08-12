@@ -1,2 +1,2 @@
 # DDMCB
-icassp project, code is comming
+code is comming
