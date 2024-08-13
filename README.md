@@ -1,2 +1,2 @@
 # DDMCB
-code is comming
+code is coming
